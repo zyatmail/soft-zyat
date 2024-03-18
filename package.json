@@ -1,0 +1,29 @@
+{
+  "name": "soft-zyat",
+  "version": "1.0.0",
+  "description": "Soft-zyat is a Node.js module that provides a collection of magical utility functions for your Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyatmail/soft-zyat"
+  },
+  "dependencies": {
+	  "sandrajones": "1.0.0",
+"vo21": "1.0.0",
+"filatovmark": "1.0.0",
+"sqr-trumposwere": "1.0.0",
+"rodrygarci": "1.0.0",
+"rodrygarci-new": "1.0.0",
+"vl75": "1.0.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyatmail/soft-zyat/issues"
+  },
+  "homepage": "https://github.com/zyatmail/soft-zyat#readme"
+}
